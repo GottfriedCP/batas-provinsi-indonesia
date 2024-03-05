@@ -2,7 +2,7 @@
 
 Ini adalah batas semua provinsi di Indonesia dalam format GeoJSON dengan ekstensi file `json`. Terdapat 38 provinsi (pasca pemekaran Papua tahun 2022) dengan kode provinsi sudah diperbarui.
 
-Entri sebuah provinsi memiliki kunci bernama `properties` yang memiliki dua kunci lagi di dalamnya, yaitu `KODE_PROV` dan `PROVINSI`. Contoh:
+Entri sebuah provinsi memiliki kunci bernama `properties` yang memiliki dua kunci lagi di dalamnya, yaitu `kode_provinsi` dan `nama_provinsi`. Contoh:
 
 ```json
 "properties":{"kode_provinsi":"97","nama_provinsi":"Papua Pegunungan"}
