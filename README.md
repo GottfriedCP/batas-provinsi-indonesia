@@ -5,7 +5,7 @@ Ini adalah batas semua provinsi di Indonesia dalam format GeoJSON dengan ekstens
 Entri sebuah provinsi memiliki kunci bernama `properties` yang memiliki dua kunci lagi di dalamnya, yaitu `KODE_PROV` dan `PROVINSI`. Contoh:
 
 ```json
-"properties":{"KODE_PROV":"97","PROVINSI":"Papua Pegunungan"}
+"properties":{"kode_provinsi":"97","nama_provinsi":"Papua Pegunungan"}
 ```
 
 Selebihnya, struktur file geojson adalah standar dan minimal.
