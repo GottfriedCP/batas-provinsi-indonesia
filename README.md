@@ -16,3 +16,9 @@ Tersedia dua file:
 2. `indonesia-province.7z`: versi akurasi tinggi dengan ribuan poligon (dikompres menggunakan 7z, gunakan aplikasi 7zip untuk mengekstrak - ukuran asli sekitar 450 MB)
 
 Versi yang disederhanakan berguna jika file json akan dilayankan bersama dokumen HTML. 
+
+[Lihat pratinjau](https://github.com/GottfriedCP/batas-provinsi-indonesia/blob/main/indonesia-province-simplified.json)
+
+### Sumber
+
+Diadaptasi dari Shapefile (SHP) yang diunggah oleh [Alf-Anas](https://github.com/Alf-Anas/batas-administrasi-indonesia)
